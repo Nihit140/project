@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  main h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  main p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+  }
+  
+  button#learn-more-btn {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
